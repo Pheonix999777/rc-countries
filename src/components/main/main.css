@@ -1,0 +1,11 @@
+.container {
+    max-width: 1281px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+  }
+  
+  .dark {
+    width: 100%;
+    background: #fafafa;
+  }
